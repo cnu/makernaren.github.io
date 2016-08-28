@@ -1,8 +1,0 @@
-modalID: 2
-title: DDMP (Decahose Data Management Platform)
-date: 2015-09-05
-img: cake.png
-client: BehaviourMatrix
-clientLink: "http://behaviormatrix.com"
-category: Backend Architecture
-description: This architecture was developed in [serendio](//serendio.com). It ingests high volume of twitter stream (5000 tweets/min), extracts entities, locations using NLP on the fly and expose the data via a searchable REST API.

@@ -1,8 +1,0 @@
-modalID: 3
-title: EmotoData
-date: 2015-02-20
-img: circus.png
-client: BehaviourMatrix
-clientLink: "http://behaviormatrix.com"
-category: Backend Architecture 
-description: This service streams data from various Chinese websites like sina weibo, tencent, renren, etc., extract useful information using NLP and stores them into database. I was responsible for crawling all the websites, streaming the data and storing them into the database to expose it via ElasticSearch(API).
