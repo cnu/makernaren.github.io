@@ -1,0 +1,8 @@
+modalID: 1
+title: MADstack
+date: 2016-06-12
+img: cabin.png
+client: ""
+clientLink: "#"
+category: Backend Architecture 
+description: This is the backend stack through which all the Artificially Intelligent products from [MadStreetDen](//madstreetden.com) meets the millions of people around the globe. I am one of the guy in engineering team whose responsibility is to  design, implement and scale this stack with high reliability on AWS infrastructure.
